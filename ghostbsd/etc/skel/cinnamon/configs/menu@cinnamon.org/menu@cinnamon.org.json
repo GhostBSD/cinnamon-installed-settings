@@ -13,7 +13,7 @@
         "tooltip": "Select an icon to show in the panel.",
         "dependency": "menu-icon-custom",
         "indent": "true",
-        "value": "/usr/share/icons/hicolor/48x48/places/ghostbsd.png"
+        "value": "/usr/local/share/icons/hicolor/48x48/places/ghostbsd.png"
     },
     "menu-label": {
         "type": "entry",
