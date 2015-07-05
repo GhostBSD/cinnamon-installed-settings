@@ -1,4 +1,4 @@
 [org.cinnamon.desktop.interface]
 menubar-accel='null'
 cursor-blink=false
-icon_theme='Vibrancy-Aqua-Dark'
+icon-theme='Vibrancy-Aqua-Dark'
