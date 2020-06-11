@@ -1,4 +1,7 @@
 [org.cinnamon.desktop.interface]
-menubar-accel='null'
+menubar-accel='false'
 cursor-blink=false
-icon-theme='Vibrancy-Aqua-Dark'
+icon-theme='Vivacious-Colors-Dark'
+gtk-decoration-layout='menu:minimize,maximize,close'
+gtk-theme='Vimix'
+
