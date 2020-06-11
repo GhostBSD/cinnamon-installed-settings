@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Cinnamon Settings Daemon Background Helper
+Comment=Sets the user background in AccountsService on Cinnamon
+Exec=csd-background-helper
+OnlyShowIn=CINNAMON;
+X-CINNAMON-Autostart-enabled=true
+
